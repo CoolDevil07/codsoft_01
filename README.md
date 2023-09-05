@@ -60,6 +60,3 @@ You can customize the chatbot in several ways:
 - Modify the predefined rules and responses in the `simple_chatbot` function in the `chatbot.py` script to make the chatbot respond to different queries or statements.
 - Enhance the chatbot's capabilities by integrating more advanced natural language processing techniques, such as sentiment analysis or machine learning models.
 - Extend the chatbot to interact with external databases or APIs to provide more dynamic responses.
-
-
-Feel free to modify this README file to match your project's specifics and add any additional information you find relevant. This README provides a starting point for documenting your simple chatbot project.
