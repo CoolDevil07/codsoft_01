@@ -10,7 +10,6 @@ This is a simple chatbot project that demonstrates how to build a basic chatbot 
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Customization](#customization)
 
@@ -24,26 +23,6 @@ Chatbots are computer programs that can simulate conversation with human users. 
 Before you begin, ensure you have the following prerequisites:
 
 - Python (3.6 or higher) installed on your system.
-
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/simple-chatbot.git
-   ```
-
-2. Change your working directory to the project folder:
-
-   ```bash
-   cd simple-chatbot
-   ```
-
-3. Run the chatbot script:
-
-   ```bash
-   python chatbot.py
-   ```
 
    The chatbot will start, and you can interact with it by typing messages.
 
